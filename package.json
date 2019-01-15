@@ -6,6 +6,8 @@
   "scripts": {
     "create:training01": "ng new training01",
     "serve:training01": "cd training01 && ng serve",
+    "create:training02": "ng new training02",
+    "serve:training02": "cd training02 && ng serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
