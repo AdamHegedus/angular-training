@@ -8,6 +8,7 @@
     "serve:training01": "cd training01 && ng serve",
     "create:training02": "ng new training02",
     "serve:training02": "cd training02 && ng serve",
+    "generate:servers": "cd training02 && ng g component servers",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +25,5 @@
     "@angular/cli": "^7.2.1"
   },
   "dependencies": {
-    "bootstrap": "^3.4.0"
   }
 }
